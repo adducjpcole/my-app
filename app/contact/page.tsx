@@ -19,7 +19,7 @@ export default function Contact() {
   return (
     <div
       ref={divRef}
-      className="flex flex-1 flex-col items-center justify-center opacity-0 -translate-y-32 duration-1000"
+      className="flex flex-1 flex-col items-center justify-center opacity-0 -translate-y-32 duration-1000 -mt-18"
     >
       <h1 className="text-4xl font-bold">get in touch</h1>
       <p className="text-center text-lg text-zinc-400 max-w-xl my-4">
