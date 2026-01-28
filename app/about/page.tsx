@@ -16,7 +16,7 @@ export default function About() {
     >
       <h1 className="text-5xl font-extrabold flex">ABOUT ME</h1>
 
-      <div className="ml-auto max-w-1/2">
+      <div className="ml-auto max-w-full md:max-w-1/2">
         <p className="text-lg text-zinc-300 text-justify">
           I&apos;m Cyril John Cole, a Computer Science student interested in
           software development.
